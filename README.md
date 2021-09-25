@@ -17,7 +17,6 @@
 * scipy                     1.4.1
 
 ## BERT weights ##
-biobert_v1.1_v2.5.1
 [biobert_v1.1_v2.5.1](https://drive.google.com/drive/folders/1G1PsTtCSNIL4XgEgp7KwJCChY1HKh7VD)
 
 ## Run models ##
