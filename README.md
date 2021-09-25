@@ -5,7 +5,7 @@
 [Biomedical named entity recognition using BERT in the machine reading comprehension framework](https://www.sciencedirect.com/science/article/pii/S1532046421001283)
 
 ## Model structure ##
-<img src="GA.jpg" width="800" >
+<img src="Figure1.jpg" width="800" >
 
 
 ## Codes ##
